@@ -6,7 +6,7 @@ I Love Code!!
 * 🌍  I'm based in Bengaluru
 * ✉️  You can contact me at [rajmayank0410@gmail.com](mailto:rajmayank0410@gmail.com)
 * 🧠  I'm learning js, Java ,React
-* ⚡  The Secret to productivity isn't discipline . It's Enjoy in your Work...
+* ⚡  The Secret to productivity isn't discipline . It's Enjoy your Work...
 
 ### Skills
 
